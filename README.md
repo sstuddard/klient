@@ -54,6 +54,7 @@ The result of client creation is a single arity function regardless of the type 
 ;; publich a list of events
 (client [{:id 1 :name "jeff" :action "click"}
          {:id 2 :name "alan" :action "back"}])
+```
 
 ## License
 
